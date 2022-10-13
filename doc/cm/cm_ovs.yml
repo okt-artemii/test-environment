@@ -69,6 +69,7 @@
       depends:
         - oid: "/agent/ovs/status"
         - oid: "/agent/ovs/bridge"
+        - oid: "/agent/ovs/bridge/port"
       d: |
          Open vSwitch interface registry.
 
